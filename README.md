@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Parth Sharma.  
+- Sophomore at University of Texas At Arlington
 - 🌱 I’m currently learning C/Java/Python.
 
 <!---
