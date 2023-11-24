@@ -1,6 +1,6 @@
 <h2>hi 👋, i'm parth sharma</h2>
 <h3>Junior at University of Texas At Arlington</h3>
-<h4><a targe="_blank" href='https://vaultofpipboy.vercel.app'>playground website</a></h4>  
+<h4><a targe="_blank" href='https://www.pipboy.me'>pipboy.me</a></h4>  
 - 💼 reach out, email: parthsharma.cs@gmail.com :)
 
 
