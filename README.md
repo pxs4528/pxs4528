@@ -10,7 +10,7 @@
 <a href="https://utamobi.com" target="_blank">
   <img style="border-radius: 50%;" width="50" height="50" src='https://avatars.githubusercontent.com/u/11078095?s=200&v=4' alt="UtaMobi Logo">
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+<a href="https://www.linkedin.com/in/parthsharma0310/" target="_blank">
   <img style="border-radius: 50%;" width="50" height="50" src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg' alt="LinkedIn Logo">
 </a>
 <h4>
