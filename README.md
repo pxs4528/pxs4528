@@ -8,7 +8,7 @@
   <img style="border-radius: 50%;" width="50" height="50" src='https://avatars.githubusercontent.com/u/33638356?s=200&v=4' alt="ACM Logo">
 </a>
 <a href="https://utamobi.com" target="_blank">
-  <img style="border-radius: 50%;" width="50" height="50" src='https://utamobi.com/icons/mobi-logomark.svg' alt="UtaMobi Logo">
+  <img style="border-radius: 50%;" width="50" height="50" src='https://avatars.githubusercontent.com/u/11078095?s=200&v=4' alt="UtaMobi Logo">
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
   <img style="border-radius: 50%;" width="50" height="50" src='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg' alt="LinkedIn Logo">
