@@ -2,6 +2,9 @@
 
 ### 🎓 university:
 - university of texas at arlington
+### 💻 languages and tools:
+![My Skills](https://skillicons.dev/icons?i=ts,go,py,java,js,nextjs,react,c,cpp,docker,express,figma,git,linux,html,css,spring,flask,mongodb,postgres,postman,github)
+
 
 ### 🌐 links:
 <a href="https://github.com/acmuta/" target="_blank">
@@ -25,6 +28,3 @@ I'm a software developer at the Integrated Systems Lab, part of the Computer Sci
 
 ### 💼 contact:
 - Email: parthsharma.cs@gmail.com
-
-### 💻 languages and tools:
-![My Skills](https://skillicons.dev/icons?i=ts,go,py,java,js,nextjs,react,c,cpp,docker,express,figma,git,linux,html,css,spring,flask,mongodb,postgres,postman,github)
