@@ -22,9 +22,5 @@
   pipboy.me &#8599;
 </a>
 </h4>
-
-### 👨‍💻 about Me:
-I'm a software developer at the Integrated Systems Lab, part of the Computer Science and Electrical Engineering department at UTA. My work involves crafting applications to seamlessly interact with integrated systems.
-
 ### 💼 contact:
 - Email: parthsharma.cs@gmail.com
